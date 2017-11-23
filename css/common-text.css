@@ -1,0 +1,60 @@
+body{
+	 font-family: 'Raleway', sans-serif;
+}
+
+h2,h3,h4,h5,h6{
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+	margin: 0;
+	padding: 10px;
+}
+
+h1{
+	font-family: 'Coda Caption', sans-serif;
+	font-size: 36px;
+	text-align: center;
+	color: #ffffff;
+}
+
+a{
+	font-family: 'Raleway:400i', sans-serif;
+	text-decoration: underline;
+	color: #ffffff;
+}
+	a:hover{
+		font-family: 'Raleway Light Italic', sans-serif;
+		text-decoration: none;
+		color: #66cc99;
+	}
+
+.btn{
+	font-family: 'Lato', sans-serif;
+	background-color: #66cc99;
+	color: #ffffff;
+	border-radius: 7px;
+	margin: 5px;
+	padding: 5px;
+}
+	.btn:hover{
+		font-family: 'Lato', sans-serif;
+		background-color: #66cc99;
+		color: #ffffff;
+	}
+
+ul{
+	font-family:'Raleway', sans-serif;
+	color: black;
+	font-size: 14px;
+	list-style-type: none;
+	margin: 0;
+	padding: 5px;
+}
+
+ol{
+	font-family: 'Raleway', sans-serif;
+	color: black;
+	font-size: 14px;
+	list-style-type: disc;
+	padding: 5px;
+}
+ 
