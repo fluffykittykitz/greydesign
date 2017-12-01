@@ -7,8 +7,11 @@ body{
 }
 
 .main-menu{
-	padding:10px 0;
+	padding:10px 15px;
 	background-color: #333333;
+}
+.search{
+	display: inline-block;
 }
 
 .search input{
@@ -17,20 +20,24 @@ body{
 }
 hgroup{
 	vertical-align: top;
-	display: inline-block;
-	padding: 0 250px;
+	padding: 10px 250px;
 	text-align: center;
 	background-color: #999999;
+}
+	h1{
+	font-family: 'Coda Caption', sans-serif;
+	font-size: 36px;
+	text-align: center;
+	color: #ffffff;
+	margin: 0;
+	padding: 10px;
 }
 
 
 header .navigation-map{
 	float: right;
+	
 }
-
-	header span{
-		display: inline-block;
-	}
 
 .services {
 	background-color: #ffffff;
@@ -68,6 +75,7 @@ header .navigation-map{
 .signup-form{
 	background-color: #999999;
 	text-align: center;
+	padding: 10px 5px;
 }
 	h3{
 		color: #ffffff;
@@ -77,5 +85,5 @@ footer{
 	background-color: #333333;
 	text-align: center;
 	color: #ffffff;
+	padding: 10px 5px;
 }
-
